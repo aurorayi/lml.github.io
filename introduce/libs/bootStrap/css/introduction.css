@@ -1,0 +1,26 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+.content{
+	width: 99%;
+	margin-left: 0.5%;
+	margin-top: 0.5%;
+	border: 1px dotted 	#00FFFF;
+}
+.content-nav{
+	width: 98%;
+	margin-left: 1%;
+}
+.content-left{
+	padding: 1% 1%;
+}
+.content-right{
+	padding: 1% 1%;
+}
+.footer{
+	position: fixed;
+	bottom: 0;
+	z-index: 999;
+	left: 40%;
+}
